@@ -105,7 +105,10 @@ The probability of having $3$ in one cell is
 $$p^{6}+q^{6}+\binom{3}{1}\binom{3}{2}p^{2}q^{4}+\binom{3}{2}\binom{3}{1}p^{4}q^{2}$$
 By substituting $p=0.5+x$, and minimizing using the least-squares method with respect to the experimental distribution, obtained value for p is $0.936093$.
 Attached, is a scatter plot showing the deviation. Given that, there are only 6 molecules, and the error is about $0.007 \pm 0.001$ (for the non-zero values), I believe it's a good model. \newline
-
+\begin{figure}
+    \includegraphics{q4.pdf}
+    \centering 
+\end{figure}
 \begin{figure}
 \includegraphics{q41.pdf}
 \centering 
@@ -114,12 +117,6 @@ Attached, is a scatter plot showing the deviation. Given that, there are only 6 
 \section{Problem 5}
 \begin{enumerate}[label=(\alph*)]
     \item There are $4^3$ possible ways of choosing the bases to form a triplet, each with the same probability. Therefore, $$p_{s}=\frac{3}{64}$$
-    % \item Let's find the probability for an unacceptable possibility. Let after $x$ bases, we get our first T base. This can be done in $3^x$ ways. We can obtain stop-codon in $3$ ways. We have $3\times N - x - 3$ bases left. These can be obtained in $4^{3N-x-3}$ ways. Therefore, the total number of ways we can get an unacceptable possibility is:
-    % $$\Sigma_{x=0}^{3N-3}\left(3^{x+1}4^{3N-x-3}\right)=3\times4^{3N-3}\left(\frac{1-(\frac{3}{4})^{3N-2}}{\frac{1}{4}}\right)$$
-    % Therefore, the acceptable number of possibilities are:
-    % $$13\cdot4^{3N-2}+3^{3N-1}$$
-    % Therefore, required probability is:
-    % $$\frac{13}{16} + \frac{1}{3}\cdot \left(\frac{3}{4}\right)^{3N}$$
 	\item There are 64 possible codons. Three of these are not allowed(The stop codons), to form an ORF.Therefore, the number of acceptable possibilities is $(64-3)^{N}$.\newline
 	Required probability is $\left(\frac{61}{64}\right)^{N}$.
 	\item Codons are of length $3$ bases. Since, the DNA is circular, let us pick an arbitray base and call it the starting point, and label the bases as $$\dots x_{N-1}x_{N}x_{0}x_{1}x_{2}\dots$$
@@ -131,7 +128,9 @@ Attached, is a scatter plot showing the deviation. Given that, there are only 6 
     \end{align*} and their reverse(corresponding to either a clockwise read or an anti-clockwise read -- Also respectively, each codon corresponds to reading frames: $+2$,$+1$ and $+0$). Therefore, there are $6$ reading frames in total. 
     \item skip
     \item Take a look at the attached ipython notebook.
-    \item \begin{figure}
+    \item The figures are placed at the end. 
+    \item 1
+    \begin{figure}
         \includegraphics{q5f0.pdf}
         \centering
     \end{figure}
