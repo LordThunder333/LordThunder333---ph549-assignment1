@@ -126,10 +126,23 @@ Attached, is a scatter plot showing the deviation. Given that, there are only 6 
         & x_{N}x_{0}x_{1} \\
         & x_{0}x_{1}x_{2} \\
     \end{align*} and their reverse(corresponding to either a clockwise read or an anti-clockwise read -- Also respectively, each codon corresponds to reading frames: $+2$,$+1$ and $+0$). Therefore, there are $6$ reading frames in total. 
-    \item skip
+    \item Exact length of the E. coli genome is $4639675$ (As per the data in U00096.fna) base pairs, whose remainder with respect to $3$ is $1$. \newline
+     Since, when chosen at random, choice of reading frame doesn't matter, let's suppose that I have picked one already. In any reading frame, because of the non-zero remainder, when codons are selected, one base pair will remain ungrouped. I select this as my origin and group bases accordingly. The sequence will look like
+    $$  \dots |X X X|X |X X X| \dots $$
+    %The origin breaks the circular symmetry of  the problem.%
+    Total number of codons formed is $1546558$(Henceforth, referred to as $L$).
+    Consider the following:
+    There are $j$ stop codons. We get $j$ ORFs. 
+    Also, the following equation must be satisfied:
+    \begin{align}\sum_{i=1}^{j}x_{i} + y = L - j \; \forall j \in [0,L]\end{align}
+    Here, $\bigcup_{i} \left\{x_{i}\right\}$ forms the set of lenghts of ORFs and $y$ is the tail. 
+    
+
     \item Take a look at the attached ipython notebook.
     \item The figures are placed at the end. 
-    \item 1
+    \item 1 
+    \pagebreak
+
     \begin{figure}
         \includegraphics{q5f0.pdf}
         \centering
