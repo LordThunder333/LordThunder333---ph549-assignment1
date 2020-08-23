@@ -130,30 +130,31 @@ Attached, is a scatter plot showing the deviation. Given that, there are only 6 
      Since, when chosen at random, choice of reading frame doesn't matter, let's suppose that I have picked one already. In any reading frame, because of the non-zero remainder, when codons are selected, one base pair will remain ungrouped. I select this as my origin and group bases accordingly. The sequence will look like
     $$  \dots |X X X|X |X X X| \dots $$
     %The origin breaks the circular symmetry of  the problem.%
-    Total number of codons formed is $1546558$(Henceforth, referred to as $L$).
-    Consider the following:
-    There are $j$ stop codons. We get $j$ ORFs. 
-    Also, the following equation must be satisfied:
-    \begin{align}\sum_{i=1}^{j}x_{i} + y = L - j \; \forall j \in [0,L]\end{align}
-    Here, $\bigcup_{i} \left\{x_{i}\right\}$ forms the set of lenghts of ORFs and $y$ is the tail. 
-    
+    Total number of codons formed is $1546558$. 
+    Since, this is a very large number, the distribution to a good approximation must be poisson or a sum of poisson distributions. That is, for an ORF of length $l$, the probability that there will be $N$ such ORFs, when a sequence is chosen at random must be 
+    $$\sum_{i} e^{-\lambda_{i} (l)}\lambda^{N}_{i}(l)/N!$$
 
     \item Take a look at the attached ipython notebook.
     \item The figures are placed at the end. 
-    \item 1 
+    \item 1
+    \item Plot is placed at the end.
     \pagebreak
 
     \begin{figure}
         \includegraphics{q5f0.pdf}
-        \centering
+        % \centering
     \end{figure}
     \begin{figure}
         \includegraphics{q5f1.pdf}
-        \centering
+        % \centering
     \end{figure}
     \begin{figure}
         \includegraphics{q5f2.pdf}
-        \centering
+        % \centering
+    \end{figure}
+    \begin{figure}
+        \includegraphics{entropy.pdf}
+        % \centering
     \end{figure}
 \end{enumerate}
 \end{document}
