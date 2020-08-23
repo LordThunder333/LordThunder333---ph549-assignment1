@@ -132,15 +132,28 @@ Attached, is a scatter plot showing the deviation. Given that, there are only 6 
     $$  \dots |X X X|X |X X X| \dots $$
     %The origin breaks the circular symmetry of  the problem.%
     Total number of codons formed is $1546558$. 
-    Since, this is a very large number, the distribution to a good approximation must be poisson or a sum of poisson distributions. That is, for an ORF of length $l$, the probability that there will be $N$ such ORFs, when a sequence is chosen at random must be 
-    $$\sum_{i} e^{-\lambda_{i} (l)}\lambda^{N}_{i}(l)/N!$$
+    The above problem is extremely complex when evaluated directly.
+    Therefore, I did the following: \newline
+    Generate a random genome: Construct a frequency table for ORF lengths.(I performed 1000 iterations)
 
+    By looking at the data, I concluded that the distribution is exponential. By fitting the curve, I obtained the following:
+    $$p(x) = 0.041491476584857405*0.9540938153337749^{x}$$. Here $x$ is the length of the ORF and $p(x)$ it's probability of occurence.
+    (Attached are images, which depict the distribution obtained from the random genome generation and the comparision between the chosen distribution and the former.)
+    Using this, the number of ORFs of length $600$ that can be expected to occur on the basis of chance is
+    $3.647e-08$, for the given length of the genome.
     \item Take a look at the attached ipython notebook.
     \item The figures are placed at the end. 
-    \item 1
+    \item By looking at the scatter plots(look at the attached plots), for each reading frame, $$L_{cut} \approx 60$$.
     \item Plot is placed at the end.
     \pagebreak
-
+    \begin{figure}
+        \includegraphics{orf.pdf}
+        % \centering
+    \end{figure}
+    \begin{figure}
+        \includegraphics{theor.pdf}
+        % \centering
+    \end{figure}
     \begin{figure}
         \includegraphics{q5f0.pdf}
         % \centering
@@ -154,8 +167,13 @@ Attached, is a scatter plot showing the deviation. Given that, there are only 6 
         % \centering
     \end{figure}
     \begin{figure}
+        \includegraphics{lcut.pdf}
+        % \centering
+    \end{figure}
+    \begin{figure}
         \includegraphics{entropy.pdf}
         % \centering
     \end{figure}
+   
 \end{enumerate}
 \end{document}

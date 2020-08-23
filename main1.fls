@@ -166,6 +166,12 @@ INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/q4.pdf
 INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/q41.pdf
 INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/q41.pdf
 INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/q41.pdf
+INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/orf.pdf
+INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/orf.pdf
+INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/orf.pdf
+INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/theor.pdf
+INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/theor.pdf
+INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/theor.pdf
 INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/q5f0.pdf
 INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/q5f0.pdf
 INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/q5f0.pdf
@@ -175,6 +181,9 @@ INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/q5f1.pdf
 INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/q5f2.pdf
 INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/q5f2.pdf
 INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/q5f2.pdf
+INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/lcut.pdf
+INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/lcut.pdf
+INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/lcut.pdf
 INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/entropy.pdf
 INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/entropy.pdf
 INPUT /home/aragorn/Documents/course_work/PH 549/Assignment 1/entropy.pdf
@@ -185,7 +194,6 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.e
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
