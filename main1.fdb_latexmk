@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1598160381 "/home/aragorn/Documents/course_work/PH 549/Assignment 1/main1.tex" "/home/aragorn/Documents/course_work/PH 549/Assignment 1/main1.pdf" "main1" 1598160382
-  "/home/aragorn/Documents/course_work/PH 549/Assignment 1/main1.aux" 1598160382 1541 b6f7c5e5df35bcefec0db848ce0754af ""
-  "/home/aragorn/Documents/course_work/PH 549/Assignment 1/main1.tex" 1598160380 6555 ab53a02fb7227277b0d8e3c01462abdb ""
+["pdflatex"] 1598160858 "/home/aragorn/Documents/course_work/PH 549/Assignment 1/main1.tex" "/home/aragorn/Documents/course_work/PH 549/Assignment 1/main1.pdf" "main1" 1598160859
+  "/home/aragorn/Documents/course_work/PH 549/Assignment 1/main1.aux" 1598160859 1541 b6f7c5e5df35bcefec0db848ce0754af ""
+  "/home/aragorn/Documents/course_work/PH 549/Assignment 1/main1.tex" 1598160857 6643 d3e2a8e9037065c1184efd02f583523c ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -91,9 +91,9 @@
   "ecoli_mass.pdf" 1598051114 23824 1a5c69ac408aef4106af142a75162f0c ""
   "human_length.pdf" 1598051114 46336 777f6b4c4bbb2598f698d8af05a70eb7 ""
   "human_mass.pdf" 1598051112 55567 47315b0f4ac48c718ccae82646697635 ""
-  "main1.aux" 1598160382 1541 b6f7c5e5df35bcefec0db848ce0754af "pdflatex"
-  "main1.out" 1598160382 393 e4c3b248b9e8e5ee942960dfeab0d058 "pdflatex"
-  "main1.tex" 1598160380 6555 ab53a02fb7227277b0d8e3c01462abdb ""
+  "main1.aux" 1598160859 1541 b6f7c5e5df35bcefec0db848ce0754af "pdflatex"
+  "main1.out" 1598160859 393 e4c3b248b9e8e5ee942960dfeab0d058 "pdflatex"
+  "main1.tex" 1598160857 6643 d3e2a8e9037065c1184efd02f583523c ""
   "q2_count.jpeg" 1598074550 23614 6ba5432e8b6f6163e3fb5f015a00b94d ""
   "q2_length.png" 1598073134 991707 f2c2fe50bb7274d5f04efc6226ef43aa ""
   "q4.pdf" 1598051114 14039 93612472be2c8659de799c87035b3507 ""
@@ -104,9 +104,9 @@
   "scerevisiae_length.pdf" 1598051114 27974 7aec733934a97698ad854887810085d5 ""
   "scerevisiae_mass.pdf" 1598051114 19526 6b3dd254ead5f455906762b0297caff3 ""
   (generated)
-  "/home/aragorn/Documents/course_work/PH 549/Assignment 1/main1.log"
-  "main1.pdf"
   "main1.out"
+  "/home/aragorn/Documents/course_work/PH 549/Assignment 1/main1.log"
   "main1.log"
-  "/home/aragorn/Documents/course_work/PH 549/Assignment 1/main1.pdf"
   "main1.aux"
+  "main1.pdf"
+  "/home/aragorn/Documents/course_work/PH 549/Assignment 1/main1.pdf"
