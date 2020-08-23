@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.19)  23 AUG 2020 13:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.19)  23 AUG 2020 14:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -305,154 +305,154 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<q2_length.png, id=56, 1446.40375pt x 932.48375pt>
+<q2_length.png, id=58, 1446.40375pt x 932.48375pt>
 File: q2_length.png Graphic file (type png)
 <use q2_length.png>
-Package pdftex.def Info: q2_length.png  used on input line 41.
+Package pdftex.def Info: q2_length.png  used on input line 42.
 (pdftex.def)             Requested size: 284.52756pt x 183.43431pt.
-<q2_count.jpeg, id=58, 180.675pt x 262.581pt>
+<q2_count.jpeg, id=60, 180.675pt x 262.581pt>
 File: q2_count.jpeg Graphic file (type jpg)
 <use q2_count.jpeg>
-Package pdftex.def Info: q2_count.jpeg  used on input line 47.
+Package pdftex.def Info: q2_count.jpeg  used on input line 48.
 (pdftex.def)             Requested size: 180.67455pt x 262.58034pt.
  [2 </home/aragorn/Documents/course_work/PH 549/Assignment 1/q2_length.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 59--63
+Underfull \hbox (badness 10000) in paragraph at lines 60--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--68
+Underfull \hbox (badness 10000) in paragraph at lines 65--69
 
  []
 
-<ecoli_length.pdf, id=65, 462.52798pt x 346.89601pt>
+<ecoli_length.pdf, id=67, 462.52798pt x 346.89601pt>
 File: ecoli_length.pdf Graphic file (type pdf)
 <use ecoli_length.pdf>
-Package pdftex.def Info: ecoli_length.pdf  used on input line 74.
+Package pdftex.def Info: ecoli_length.pdf  used on input line 75.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
 
-Overfull \hbox (117.52684pt too wide) in paragraph at lines 74--76
+Overfull \hbox (117.52684pt too wide) in paragraph at lines 75--77
  [][] 
  []
 
-<ecoli_mass.pdf, id=66, 462.52798pt x 346.89601pt>
+<ecoli_mass.pdf, id=68, 462.52798pt x 346.89601pt>
 File: ecoli_mass.pdf Graphic file (type pdf)
 <use ecoli_mass.pdf>
-Package pdftex.def Info: ecoli_mass.pdf  used on input line 78.
+Package pdftex.def Info: ecoli_mass.pdf  used on input line 79.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
 
-Overfull \hbox (117.52684pt too wide) in paragraph at lines 78--80
+Overfull \hbox (117.52684pt too wide) in paragraph at lines 79--81
  [][] 
  []
 
-<scerevisiae_length.pdf, id=67, 462.52798pt x 346.89601pt>
+<scerevisiae_length.pdf, id=69, 462.52798pt x 346.89601pt>
 File: scerevisiae_length.pdf Graphic file (type pdf)
 <use scerevisiae_length.pdf>
-Package pdftex.def Info: scerevisiae_length.pdf  used on input line 82.
+Package pdftex.def Info: scerevisiae_length.pdf  used on input line 83.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
 
-Overfull \hbox (117.52684pt too wide) in paragraph at lines 82--84
+Overfull \hbox (117.52684pt too wide) in paragraph at lines 83--85
  [][] 
  []
 
-<scerevisiae_mass.pdf, id=68, 462.52798pt x 346.89601pt>
+<scerevisiae_mass.pdf, id=70, 462.52798pt x 346.89601pt>
 File: scerevisiae_mass.pdf Graphic file (type pdf)
 <use scerevisiae_mass.pdf>
-Package pdftex.def Info: scerevisiae_mass.pdf  used on input line 86.
+Package pdftex.def Info: scerevisiae_mass.pdf  used on input line 87.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
 
-Overfull \hbox (117.52684pt too wide) in paragraph at lines 86--88
+Overfull \hbox (117.52684pt too wide) in paragraph at lines 87--89
  [][] 
  []
 
-<human_length.pdf, id=69, 462.52798pt x 346.89601pt>
+<human_length.pdf, id=71, 462.52798pt x 346.89601pt>
 File: human_length.pdf Graphic file (type pdf)
 <use human_length.pdf>
-Package pdftex.def Info: human_length.pdf  used on input line 90.
+Package pdftex.def Info: human_length.pdf  used on input line 91.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
 
-Overfull \hbox (117.52684pt too wide) in paragraph at lines 90--92
+Overfull \hbox (117.52684pt too wide) in paragraph at lines 91--93
  [][] 
  []
 
-<human_mass.pdf, id=70, 462.52798pt x 346.89601pt>
+<human_mass.pdf, id=72, 462.52798pt x 346.89601pt>
 File: human_mass.pdf Graphic file (type pdf)
 <use human_mass.pdf>
-Package pdftex.def Info: human_mass.pdf  used on input line 94.
+Package pdftex.def Info: human_mass.pdf  used on input line 95.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
 
-Overfull \hbox (117.52684pt too wide) in paragraph at lines 94--96
+Overfull \hbox (117.52684pt too wide) in paragraph at lines 95--97
  [][] 
  []
 
 [3 </home/aragorn/Documents/course_work/PH 549/Assignment 1/q2_count.jpeg>] [4 </home/aragorn/Documents/course_work/PH 549/Assignment 1/ecoli_length.pdf>] [5 </home/aragorn/Documents/course_work/PH 549/Assignment 1/ecoli_mass.pdf>] [6 </home/aragorn/Documents/course_work/PH 549/Assignment 1/scerevisiae_length.pdf>] [7 </home/aragorn/Documents/course_work/PH 549/Assignment 1/scerevisiae_mass.pdf>] [8 </home/aragorn/Documents/course_work/PH 549/Assignment 1/human_length.pdf>] [9 </home/aragorn/Documents/course_work/PH 549/Assignment 1/human_mass.pdf>]
-<q4.pdf, id=326, 462.52798pt x 346.89601pt>
+<q4.pdf, id=328, 462.52798pt x 346.89601pt>
 File: q4.pdf Graphic file (type pdf)
 <use q4.pdf>
-Package pdftex.def Info: q4.pdf  used on input line 109.
+Package pdftex.def Info: q4.pdf  used on input line 110.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
 
-Overfull \hbox (117.52684pt too wide) in paragraph at lines 109--111
+Overfull \hbox (117.52684pt too wide) in paragraph at lines 110--112
  [][] 
  []
 
-<q41.pdf, id=327, 462.52798pt x 346.89601pt>
+<q41.pdf, id=329, 462.52798pt x 346.89601pt>
 File: q41.pdf Graphic file (type pdf)
 <use q41.pdf>
-Package pdftex.def Info: q41.pdf  used on input line 113.
+Package pdftex.def Info: q41.pdf  used on input line 114.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
 
-Overfull \hbox (117.52684pt too wide) in paragraph at lines 113--115
+Overfull \hbox (117.52684pt too wide) in paragraph at lines 114--116
  [][] 
  []
 
 [10] [11 </home/aragorn/Documents/course_work/PH 549/Assignment 1/q4.pdf>] [12 </home/aragorn/Documents/course_work/PH 549/Assignment 1/q41.pdf>]
-Overfull \hbox (8.75067pt too wide) in paragraph at lines 129--131
+Overfull \hbox (8.75067pt too wide) in paragraph at lines 130--132
 []\OT1/cmr/m/n/10 Exact length of the E. coli genome is $4639675$ (As per the data in U00096.fna)
  []
 
 [13]
-<q5f0.pdf, id=445, 433.62pt x 289.08pt>
+<q5f0.pdf, id=447, 433.62pt x 289.08pt>
 File: q5f0.pdf Graphic file (type pdf)
 <use q5f0.pdf>
-Package pdftex.def Info: q5f0.pdf  used on input line 144.
+Package pdftex.def Info: q5f0.pdf  used on input line 145.
 (pdftex.def)             Requested size: 433.61894pt x 289.07928pt.
 
-Overfull \hbox (88.61894pt too wide) in paragraph at lines 144--146
+Overfull \hbox (88.61894pt too wide) in paragraph at lines 145--147
 [][] 
  []
 
-<q5f1.pdf, id=446, 433.62pt x 289.08pt>
+<q5f1.pdf, id=448, 433.62pt x 289.08pt>
 File: q5f1.pdf Graphic file (type pdf)
 <use q5f1.pdf>
-Package pdftex.def Info: q5f1.pdf  used on input line 148.
+Package pdftex.def Info: q5f1.pdf  used on input line 149.
 (pdftex.def)             Requested size: 433.61894pt x 289.07928pt.
 
-Overfull \hbox (88.61894pt too wide) in paragraph at lines 148--150
+Overfull \hbox (88.61894pt too wide) in paragraph at lines 149--151
 [][] 
  []
 
-<q5f2.pdf, id=447, 433.62pt x 289.08pt>
+<q5f2.pdf, id=449, 433.62pt x 289.08pt>
 File: q5f2.pdf Graphic file (type pdf)
 <use q5f2.pdf>
-Package pdftex.def Info: q5f2.pdf  used on input line 152.
+Package pdftex.def Info: q5f2.pdf  used on input line 153.
 (pdftex.def)             Requested size: 433.61894pt x 289.07928pt.
 
-Overfull \hbox (88.61894pt too wide) in paragraph at lines 152--154
+Overfull \hbox (88.61894pt too wide) in paragraph at lines 153--155
 [][] 
  []
 
-<entropy.pdf, id=448, 433.62pt x 289.08pt>
+<entropy.pdf, id=450, 433.62pt x 289.08pt>
 File: entropy.pdf Graphic file (type pdf)
 <use entropy.pdf>
-Package pdftex.def Info: entropy.pdf  used on input line 156.
+Package pdftex.def Info: entropy.pdf  used on input line 157.
 (pdftex.def)             Requested size: 433.61894pt x 289.07928pt.
 
-Overfull \hbox (88.61894pt too wide) in paragraph at lines 156--158
+Overfull \hbox (88.61894pt too wide) in paragraph at lines 157--159
 [][] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
 [14 </home/aragorn/Documents/course_work/PH 549/Assignment 1/q5f0.pdf> </home/aragorn/Documents/course_work/PH 549/Assignment 1/q5f1.pdf
 
 pdfTeX warning: pdflatex (file /home/aragorn/Documents/course_work/PH 549/Assignment 1/q5f1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
@@ -460,13 +460,13 @@ pdfTeX warning: pdflatex (file /home/aragorn/Documents/course_work/PH 549/Assign
 
 pdfTeX warning: pdflatex (file /home/aragorn/Documents/course_work/PH 549/Assignment 1/entropy.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
  (/home/aragorn/Documents/course_work/PH 549/Assignment 1/main1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 161.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 161.
 Package rerunfilecheck Info: File `main1.out' has not changed.
 (rerunfilecheck)             Checksum: E4C3B248B9E8E5EE942960DFEAB0D058;393.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 160.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
  ) 
 Here is how much of TeX's memory you used:
  6865 strings out of 480893
@@ -477,10 +477,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  43i,8n,37p,394b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on "/home/aragorn/Documents/course_work/PH 549/Assignment 1/main1.pdf" (15 pages, 2106189 bytes).
+Output written on "/home/aragorn/Documents/course_work/PH 549/Assignment 1/main1.pdf" (15 pages, 2108086 bytes).
 PDF statistics:
- 678 PDF objects out of 1000 (max. 8388607)
- 227 compressed objects within 3 object streams
+ 680 PDF objects out of 1000 (max. 8388607)
+ 229 compressed objects within 3 object streams
  34 named destinations out of 1000 (max. 500000)
  135 words of extra memory for PDF output out of 10000 (max. 10000000)
 
